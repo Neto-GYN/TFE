@@ -1,0 +1,3 @@
+- explicando a ferramenta e a diferença com outros frameworks ex: bootstrap
+- ignora o uso de arquivos CSS , utiliza o css direto no html
+- gera uma build apenas que foi utilizado no projeto
