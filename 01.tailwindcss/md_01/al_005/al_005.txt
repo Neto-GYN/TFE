@@ -1,0 +1,1 @@
+aula explica como funciona o comportamento do tailwind
