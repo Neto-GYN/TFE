@@ -1,0 +1,1 @@
+a aula ensina como configurar tailwindCss vite num projeto REACT
